@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\bin\Debug\net6.0\SingleResposibility.exe
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\bin\Debug\net6.0\SingleResposibility.deps.json
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\bin\Debug\net6.0\SingleResposibility.runtimeconfig.json
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\bin\Debug\net6.0\SingleResposibility.dll
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\bin\Debug\net6.0\SingleResposibility.pdb
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.dll
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\refint\SingleResposibility.dll
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.pdb
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\SingleResposibility.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\SingleResposibility\SingleResposibility\obj\Debug\net6.0\ref\SingleResposibility.dll

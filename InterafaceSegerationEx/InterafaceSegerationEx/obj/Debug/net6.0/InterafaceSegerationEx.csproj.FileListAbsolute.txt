@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\bin\Debug\net6.0\InterafaceSegerationEx.exe
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\bin\Debug\net6.0\InterafaceSegerationEx.deps.json
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\bin\Debug\net6.0\InterafaceSegerationEx.runtimeconfig.json
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\bin\Debug\net6.0\InterafaceSegerationEx.dll
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\bin\Debug\net6.0\InterafaceSegerationEx.pdb
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.dll
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\refint\InterafaceSegerationEx.dll
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.pdb
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\InterafaceSegerationEx.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\InterafaceSegerationEx\InterafaceSegerationEx\obj\Debug\net6.0\ref\InterafaceSegerationEx.dll
